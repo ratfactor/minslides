@@ -24,3 +24,7 @@ To see how surprised I was at how easy it is to do something like this in the ye
 the OFFICIAL WEB PAGE of minslides:
 
 http://ratfactor.com/minslides
+
+And here is a REAL TALK made with minslides:
+
+http://ratfactor.com/forth/forth_talk_2023.html
