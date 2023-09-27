@@ -1,5 +1,9 @@
 # minslides
 
+
+**MOVED!** Hello, I am moving my repos to http://ratfactor.com/repos/
+and setting them to read-only ("archived") on GitHub. Thank you, _-Dave_
+
 A single web page presentation slide tool that is just ridiculously small and simple.
 
 * Keyboard slide navigation!
